@@ -1,9 +1,9 @@
-DIVE INTO CODE機械学習コース
-DIVE INTO CODE機械学習コースの課題を管理するリポジトリです。
+## DIVE INTO CODE機械学習コース
+### DIVE INTO CODE機械学習コースの課題を管理するリポジトリです。
 
-Term0 Pre Training
-Week1 Python入門
-Week1授業前課題1 Pythonを使ってみよう
+#### Term0 Pre Training
+> Week1 Python入門
+> Week1授業前課題1 Pythonを使ってみよう
 Week1授業課題1 曽呂利新左衛門問題
 Week1授業課題2 何回折ったら富士山を超えるか問題
 Week1授業課題3 栗まんじゅう問題
