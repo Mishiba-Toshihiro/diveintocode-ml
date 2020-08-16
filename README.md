@@ -1,8 +1,9 @@
 ## DIVE INTO CODE 機械学習エンジニアコース (経済産業省認定 第四次産業革命スキル習得講座)
 ### DIVE INTO CODE機械学習コースの課題を管理するリポジトリです。
-### Term0〜2ではPython基礎や機械学習・ディープラーニングの各モデル実装を各課題で取り組んだ。
-### Term3 Engineer Projectでは、グループワーク「AIセルフレジ開発」、個人課題「混雑状況のリアルタイム可視化AI」に取り組んだ。
-### 
+### Term0〜2ではPython基礎/機械学習・ディープラーニングの各モデル実装の各課題を取り組んだ。
+### Term3 Engineer Projectでは、以下２つを取り組んだ（他リポジトリ）
+### グループワーク「AIセルフレジ開発」(https://github.com/Mishiba-Toshihiro/Self-Register)
+### 個人課題「混雑状況のリアルタイム可視化AI」（https://github.com/Mishiba-Toshihiro/IoT_to_AWS）
 
 #### Term0 Pre Training
 > Week1 Python入門
@@ -99,6 +100,6 @@
 > Sprint24課題 Seq2Seq
 
 #### Term3 Engineer Project
-> Sprint25 グループワーク 「AIセルフレジ開発」
+> Sprint25 グループワーク 「AIセルフレジ開発」(https://github.com/Mishiba-Toshihiro/Self-Register)
 
-> Sprint26 個人課題 「混雑状況のリアルタイム可視化AI」(https://github.com/Mishiba-Toshihiro/Self-Register)
+> Sprint26 個人課題 「混雑状況のリアルタイム可視化AI」（https://github.com/Mishiba-Toshihiro/IoT_to_AWS）
