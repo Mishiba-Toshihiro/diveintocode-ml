@@ -99,6 +99,6 @@
 > Sprint24課題 Seq2Seq
 
 #### Term3 Engineer Project
-> Sprint25 グループワーク [AIセルフレジ開発」
+> Sprint25 グループワーク 「AIセルフレジ開発」
 
-> Sprint26 個人課題 「混雑状況のリアルタイム可視化AI」
+> Sprint26 個人課題 「混雑状況のリアルタイム可視化AI」(https://github.com/Mishiba-Toshihiro/Self-Register)
