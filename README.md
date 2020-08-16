@@ -1,5 +1,8 @@
-## DIVE INTO CODE機械学習コース
+## DIVE INTO CODE 機械学習コース (経済産業省認定 第四次産業革命スキル習得講座)
 ### DIVE INTO CODE機械学習コースの課題を管理するリポジトリです。
+### Term0〜2ではPython基礎や機械学習・ディープラーニングの各モデル実装を各課題で取り組んだ。
+### Term3 Engineer Projectでは、グループワーク「AIセルフレジ開発」、個人課題「混雑状況のリアルタイム可視化AI」に取り組んだ。
+### 
 
 #### Term0 Pre Training
 > Week1 Python入門
@@ -44,7 +47,7 @@
 
 > Week4授業課題 信用情報の学習
 
-> Term1 Machine Learning
+#### Term1 Machine Learning
 
 > Sprint0課題 機械学習スクラッチ入門
 
@@ -96,6 +99,6 @@
 > Sprint23課題 Seq2Seq
 
 #### Term3 Engineer Project
-> Sprint24 グループ課題
+> Sprint24 グループワーク
 
 > Sprint25 個人課題
